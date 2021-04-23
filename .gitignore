@@ -67,3 +67,4 @@ tmp/
 .vscode/settings.json
 .env copy
 modules/whatsapp-session.json
+package-lock.json
